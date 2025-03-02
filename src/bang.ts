@@ -2,15 +2,6 @@
 
 export const bangs = [
   {
-    c: "AI",
-    d: "www.t3.chat",
-    r: 0,
-    s: "T3 Chat",
-    sc: "AI",
-    t: "t3",
-    u: "https://www.t3.chat/new?q={{{s}}}",
-  },
-  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
@@ -40604,7 +40595,7 @@ export const bangs = [
     r: 828,
     s: "Genius",
     sc: "Audio",
-    t: "gen",
+    t: "ge",
     u: "http://genius.com/search?q={{{s}}}",
   },
   {
@@ -55392,7 +55383,7 @@ export const bangs = [
     r: 139,
     s: "Yandex Images",
     sc: "Images",
-    t: "iya",
+    t: "yai",
     u: "https://yandex.com/images/search?text={{{s}}}",
   },
   {
@@ -71844,7 +71835,7 @@ export const bangs = [
     r: 334,
     s: "YouTube Music",
     sc: "Music",
-    t: "myt",
+    t: "ytm",
     u: "https://music.youtube.com/search?q={{{s}}}",
   },
   {
@@ -92441,7 +92432,7 @@ export const bangs = [
     r: 5,
     s: "SoundCloud",
     sc: "Audio",
-    t: "scloud",
+    t: "sc",
     u: "https://soundcloud.com/search?q={{{s}}}",
   },
   {
@@ -107287,7 +107278,7 @@ export const bangs = [
     r: 1138,
     s: "YouTube",
     sc: "Video",
-    t: "ty",
+    t: "yt",
     u: "https://www.youtube.com/results?search_query={{{s}}}",
   },
   {
@@ -119521,7 +119512,7 @@ export const bangs = [
     r: 0,
     s: "Yandex Music",
     sc: "Music",
-    t: "yamusic",
+    t: "yam",
     u: "https://music.yandex.ru/search?text={{{s}}}",
   },
   {
